@@ -1,0 +1,8 @@
+server/
+client/
+newcerts/
+
+index.txt
+index.txt.attr
+serial
+*.old
